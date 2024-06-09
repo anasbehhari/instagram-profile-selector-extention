@@ -12,7 +12,7 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "anasbehhari-instagram-profile-selector",
+      "id": "addon@anasbehhari.com",
       "strict_min_version": "42.0",
       "strict_max_version": "50.*"
     },
