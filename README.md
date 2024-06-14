@@ -14,8 +14,10 @@ This script adds an overlay to the profile picture on Instagram profile pages. T
 - Supports dynamic updates and compatibility with different browsers.
 
 ## Installation
+You can find this extention on :
+   --- Firefox Mozilla : https://addons.mozilla.org/en-US/firefox/addon/instagram-profile-selector/
 
-To use this script as a browser extension, follow these steps:
+### To use this script as a browser extension, follow these steps:
 
 1. Clone or download this repository to your local machine.
 
